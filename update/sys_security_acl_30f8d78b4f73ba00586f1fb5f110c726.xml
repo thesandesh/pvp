@@ -12,7 +12,7 @@
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>localadmin</sys_created_by>
         <sys_created_on>2017-07-11 15:27:47</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>30f8d78b4f73ba00586f1fb5f110c726</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_trer2_test2132_table</sys_name>

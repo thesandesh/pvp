@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="teads" max_length="40" name="x_trer2_test2132_teads" type="collection"/>
+</database>

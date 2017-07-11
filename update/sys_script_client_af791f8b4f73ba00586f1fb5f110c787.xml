@@ -17,7 +17,7 @@
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>localadmin</sys_created_by>
         <sys_created_on>2017-07-11 15:30:59</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>af791f8b4f73ba00586f1fb5f110c787</sys_id>
         <sys_mod_count>0</sys_mod_count>

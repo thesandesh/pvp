@@ -11,27 +11,27 @@
         <delete_access>false</delete_access>
         <extension_model/>
         <is_extendable>false</is_extendable>
-        <label>Test2132 Table</label>
+        <label>teads</label>
         <live_feed_enabled>false</live_feed_enabled>
-        <name>x_trer2_test2132_table</name>
+        <name>x_trer2_test2132_teads</name>
         <number_ref/>
         <provider_class/>
         <read_access>true</read_access>
         <super_class/>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>localadmin</sys_created_by>
-        <sys_created_on>2017-07-11 15:27:47</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
-        <sys_id>fbe81f4b4f73ba00586f1fb5f110c755</sys_id>
+        <sys_created_on>2017-07-11 15:40:39</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>e7db9bcb4f73ba00586f1fb5f110c709</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>test2132 Table</sys_name>
+        <sys_name>teads</sys_name>
         <sys_package display_value="test2132" source="x_trer2_test2132">bbe81f4b4f73ba00586f1fb5f110c755</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="test2132">bbe81f4b4f73ba00586f1fb5f110c755</sys_scope>
-        <sys_update_name>sys_db_object_fbe81f4b4f73ba00586f1fb5f110c755</sys_update_name>
+        <sys_update_name>sys_db_object_e7db9bcb4f73ba00586f1fb5f110c709</sys_update_name>
         <sys_updated_by>localadmin</sys_updated_by>
-        <sys_updated_on>2017-07-11 15:27:47</sys_updated_on>
+        <sys_updated_on>2017-07-11 15:40:39</sys_updated_on>
         <update_access>false</update_access>
         <user_role display_value="x_trer2_test2132.user" name="x_trer2_test2132.user">b7e8d78b4f73ba00586f1fb5f110c71d</user_role>
         <ws_access>true</ws_access>
