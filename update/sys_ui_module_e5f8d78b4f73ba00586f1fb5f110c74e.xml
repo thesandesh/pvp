@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="test2132">61f8d78b4f73ba00586f1fb5f110c74e</application>
+        <filter/>
+        <name>test2132 Table</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_trer2_test2132.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>localadmin</sys_created_by>
+        <sys_created_on>2017-07-11 15:27:50</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>e5f8d78b4f73ba00586f1fb5f110c74e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test2132 Table</sys_name>
+        <sys_package display_value="test2132" source="x_trer2_test2132">bbe81f4b4f73ba00586f1fb5f110c755</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="test2132">bbe81f4b4f73ba00586f1fb5f110c755</sys_scope>
+        <sys_update_name>sys_ui_module_e5f8d78b4f73ba00586f1fb5f110c74e</sys_update_name>
+        <sys_updated_by>localadmin</sys_updated_by>
+        <sys_updated_on>2017-07-11 15:27:50</sys_updated_on>
+        <table>x_trer2_test2132_table</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

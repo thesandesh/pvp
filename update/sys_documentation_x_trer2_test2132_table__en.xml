@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="test2132 Table" language="en" table="x_trer2_test2132_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>test2132 Table</label>
+            <language>en</language>
+            <name>x_trer2_test2132_table</name>
+            <plural>test2132 Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>localadmin</sys_created_by>
+            <sys_created_on>2017-07-11 15:27:48</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>01f8d78b4f73ba00586f1fb5f110c745</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>test2132 Table</sys_name>
+            <sys_package display_value="test2132" source="x_trer2_test2132">bbe81f4b4f73ba00586f1fb5f110c755</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="test2132">bbe81f4b4f73ba00586f1fb5f110c755</sys_scope>
+            <sys_update_name>sys_documentation_x_trer2_test2132_table__en</sys_update_name>
+            <sys_updated_by>localadmin</sys_updated_by>
+            <sys_updated_on>2017-07-11 15:27:48</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
