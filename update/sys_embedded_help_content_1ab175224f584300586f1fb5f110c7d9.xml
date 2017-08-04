@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_content">
+    <sys_embedded_help_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <content><![CDATA[    <h1 class="title topictitle1">System properties</h1>            <div class="body taskbody"><p class="shortdesc">Set the property values. Be cautious when changing the property values, as these        settings can greatly affect overall system performance.</p>        <ol class="ol steps" id="system_properties_ui-normal__s_CreateCredAndTest"><li class="li step">                <span class="ph cmd">Modify the fields in the form.</span>            </li><li class="li step">                <span class="ph cmd">Click <span class="ph uicontrol">Save</span>.</span>            </li></ol>    </div>]]></content>
+        <last_sync>2017-08-03 15:11:12</last_sync>
+        <modifier>normal</modifier>
+        <name>system_properties_ui-normal</name>
+        <page>system_properties_ui</page>
+        <product>1</product>
+        <qualifier/>
+        <role/>
+        <role_order>1000</role_order>
+        <snc_created>true</snc_created>
+        <sys_class_name>sys_embedded_help_content</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2017-08-03 15:11:12</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>1ab175224f584300586f1fb5f110c7d9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>system_properties_ui-normal</sys_name>
+        <sys_package display_value="test2132" source="x_trer2_test2132">bbe81f4b4f73ba00586f1fb5f110c755</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="test2132">bbe81f4b4f73ba00586f1fb5f110c755</sys_scope>
+        <sys_update_name>sys_embedded_help_content_1ab175224f584300586f1fb5f110c7d9</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-08-03 15:11:12</sys_updated_on>
+        <version>j</version>
+    </sys_embedded_help_content>
+</record_update>

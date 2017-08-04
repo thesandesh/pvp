@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="INSERT_OR_UPDATE">
+        <canvas_page display_value="PA New Tab">10047b7d4fd00300586f1fb5f110c7d8</canvas_page>
+        <name>New Tab</name>
+        <page display_value="PA New Tab">5c047b7d4fd00300586f1fb5f110c7d6</page>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>localadmin</sys_created_by>
+        <sys_created_on>2017-08-01 16:44:59</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>5c047b7d4fd00300586f1fb5f110c7d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="test2132" source="x_trer2_test2132">bbe81f4b4f73ba00586f1fb5f110c755</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="test2132">bbe81f4b4f73ba00586f1fb5f110c755</sys_scope>
+        <sys_update_name>pa_tabs_5c047b7d4fd00300586f1fb5f110c7d8</sys_update_name>
+        <sys_updated_by>localadmin</sys_updated_by>
+        <sys_updated_on>2017-08-01 16:44:59</sys_updated_on>
+    </pa_tabs>
+</record_update>

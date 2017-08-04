@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element label="teads" max_length="40" name="x_trer2_test2132_teads" type="collection"/>
+    <element label="teads" max_length="40" name="x_trer2_test2132_teads" type="collection">
+        <element choice="1" label="test" max_length="40" name="test" type="choice">
+            <choice/>
+        </element>
+    </element>
 </database>

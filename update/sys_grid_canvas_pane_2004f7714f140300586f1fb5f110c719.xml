@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA New Tab">10047b7d4fd00300586f1fb5f110c7d8</grid_canvas>
+        <height>19</height>
+        <portal_widget display_value="Created 2017-08-01 12:44:59 PM">2804f7714f140300586f1fb5f110c708</portal_widget>
+        <posx>0</posx>
+        <posy>30</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>localadmin</sys_created_by>
+        <sys_created_on>2017-08-01 16:45:00</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>2004f7714f140300586f1fb5f110c719</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="test2132" source="x_trer2_test2132">bbe81f4b4f73ba00586f1fb5f110c755</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="test2132">bbe81f4b4f73ba00586f1fb5f110c755</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_2004f7714f140300586f1fb5f110c719</sys_update_name>
+        <sys_updated_by>localadmin</sys_updated_by>
+        <sys_updated_on>2017-08-01 16:45:00</sys_updated_on>
+        <width>4</width>
+    </sys_grid_canvas_pane>
+</record_update>

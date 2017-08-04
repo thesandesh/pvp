@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element label="test2132 Table" max_length="40" name="x_trer2_test2132_table" type="collection"/>
+    <element label="test2132 Table" max_length="40" name="x_trer2_test2132_table" type="collection">
+        <element label="safdfsa" max_length="32" name="safdfsasafdsafd" reference="sys_user" type="reference"/>
+        <element label="ssfdasf" max_length="50" name="ssfdasf" type="string"/>
+        <element label="Hello" max_length="40" name="test" type="glide_date"/>
+        <index name="index">
+            <element name="safdfsasafdsafd"/>
+        </index>
+    </element>
 </database>

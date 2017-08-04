@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="585be3a44f500340586f1fb5f110c78c" sys_domain="global" table="x_trer2_test2132_table" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>safdfsasafdsafd</element>
+            <position>0</position>
+            <sys_created_by>test123</sys_created_by>
+            <sys_created_on>2017-08-04 15:58:32</sys_created_on>
+            <sys_id>1d264f3e4fd08300586f1fb5f110c788</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_trer2_test2132_table" sys_domain="global" view="Default view">585be3a44f500340586f1fb5f110c78c</sys_ui_section>
+            <sys_updated_by>test123</sys_updated_by>
+            <sys_updated_on>2017-08-04 15:58:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>test</element>
+            <position>1</position>
+            <sys_created_by>test123</sys_created_by>
+            <sys_created_on>2017-08-04 15:58:32</sys_created_on>
+            <sys_id>9d264f3e4fd08300586f1fb5f110c788</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_trer2_test2132_table" sys_domain="global" view="Default view">585be3a44f500340586f1fb5f110c78c</sys_ui_section>
+            <sys_updated_by>test123</sys_updated_by>
+            <sys_updated_on>2017-08-04 15:58:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_trer2_test2132_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>test123</sys_created_by>
+            <sys_created_on>2017-07-28 18:54:38</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>585be3a44f500340586f1fb5f110c78c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_trer2_test2132_table</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="test2132" source="x_trer2_test2132">bbe81f4b4f73ba00586f1fb5f110c755</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="test2132">bbe81f4b4f73ba00586f1fb5f110c755</sys_scope>
+            <sys_update_name>sys_ui_section_585be3a44f500340586f1fb5f110c78c</sys_update_name>
+            <sys_updated_by>test123</sys_updated_by>
+            <sys_updated_on>2017-07-28 18:54:38</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

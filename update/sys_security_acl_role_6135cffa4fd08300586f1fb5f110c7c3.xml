@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>test123</sys_created_by>
+        <sys_created_on>2017-08-04 15:54:28</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>6135cffa4fd08300586f1fb5f110c7c3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_trer2_test2132_test_table.x_trer2_test2132.user</sys_name>
+        <sys_package display_value="test2132" source="x_trer2_test2132">bbe81f4b4f73ba00586f1fb5f110c755</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="test2132">bbe81f4b4f73ba00586f1fb5f110c755</sys_scope>
+        <sys_security_acl display_value="x_trer2_test2132_test_table">e135cffa4fd08300586f1fb5f110c7bf</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_6135cffa4fd08300586f1fb5f110c7c3</sys_update_name>
+        <sys_updated_by>test123</sys_updated_by>
+        <sys_updated_on>2017-08-04 15:54:28</sys_updated_on>
+        <sys_user_role display_value="x_trer2_test2132.user" name="x_trer2_test2132.user">b7e8d78b4f73ba00586f1fb5f110c71d</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

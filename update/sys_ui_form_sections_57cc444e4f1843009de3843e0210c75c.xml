@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="57cc444e4f1843009de3843e0210c75c" sys_domain="global" table="x_trer2_test2132_teads" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>test123</sys_created_by>
+            <sys_created_on>2017-08-01 18:33:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>13cc444e4f1843009de3843e0210c75d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_trer2_test2132_teads" name="x_trer2_test2132_teads" sys_domain="global" view="Default view">57cc444e4f1843009de3843e0210c75c</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_trer2_test2132_teads" sys_domain="global" view="Default view">66ac8c0e4f1843009de3843e0210c7ef</sys_ui_section>
+            <sys_updated_by>test123</sys_updated_by>
+            <sys_updated_on>2017-08-01 18:33:19</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>test123</sys_created_by>
+            <sys_created_on>2017-08-01 18:33:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>97cc444e4f1843009de3843e0210c75e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_trer2_test2132_teads" name="x_trer2_test2132_teads" sys_domain="global" view="Default view">57cc444e4f1843009de3843e0210c75c</sys_ui_form>
+            <sys_ui_section caption="test" display_value="test" name="x_trer2_test2132_teads" sys_domain="global" view="Default view">5bcc444e4f1843009de3843e0210c75d</sys_ui_section>
+            <sys_updated_by>test123</sys_updated_by>
+            <sys_updated_on>2017-08-01 18:33:19</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_trer2_test2132_teads</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>test123</sys_created_by>
+            <sys_created_on>2017-08-01 18:33:19</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>57cc444e4f1843009de3843e0210c75c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_trer2_test2132_teads</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="test2132" source="x_trer2_test2132">bbe81f4b4f73ba00586f1fb5f110c755</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="test2132">bbe81f4b4f73ba00586f1fb5f110c755</sys_scope>
+            <sys_update_name>sys_ui_form_sections_57cc444e4f1843009de3843e0210c75c</sys_update_name>
+            <sys_updated_by>test123</sys_updated_by>
+            <sys_updated_on>2017-08-01 18:33:19</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

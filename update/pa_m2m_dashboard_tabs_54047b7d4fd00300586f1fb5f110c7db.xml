@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE">
+        <dashboard display_value="Allocation Dashboard">5c047b7d4fd00300586f1fb5f110c7d5</dashboard>
+        <home>false</home>
+        <homepage display_value="Allocation Dashboard">da353c54131bb6002ee7dd828144b0ea</homepage>
+        <order>1</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>localadmin</sys_created_by>
+        <sys_created_on>2017-08-01 16:44:59</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>54047b7d4fd00300586f1fb5f110c7db</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>5c047b7d4fd00300586f1fb5f110c7d5</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="test2132" source="x_trer2_test2132">bbe81f4b4f73ba00586f1fb5f110c755</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="test2132">bbe81f4b4f73ba00586f1fb5f110c755</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_54047b7d4fd00300586f1fb5f110c7db</sys_update_name>
+        <sys_updated_by>localadmin</sys_updated_by>
+        <sys_updated_on>2017-08-01 16:45:00</sys_updated_on>
+        <tab display_value="New Tab">5c047b7d4fd00300586f1fb5f110c7d8</tab>
+    </pa_m2m_dashboard_tabs>
+</record_update>

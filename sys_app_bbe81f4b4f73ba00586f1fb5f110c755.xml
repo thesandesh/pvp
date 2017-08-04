@@ -5,6 +5,7 @@
         <enforce_license>log</enforce_license>
         <js_level>helsinki_es5</js_level>
         <licensable>true</licensable>
+        <license_model>none</license_model>
         <logo/>
         <menu display_value="test2132">7be8d78b4f73ba00586f1fb5f110c71c</menu>
         <name>test2132</name>
