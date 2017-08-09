@@ -53,16 +53,16 @@
         <sys_created_by>test123</sys_created_by>
         <sys_created_on>2017-08-04 15:54:28</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>6d35cffa4fd08300586f1fb5f110c7c6</sys_id>
+        <sys_id>32e74bbe4fd08300586f1fb5f110c705</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_trer2_test2132_test_table</sys_name>
         <sys_package display_value="test2132" source="x_trer2_test2132">bbe81f4b4f73ba00586f1fb5f110c755</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="test2132">bbe81f4b4f73ba00586f1fb5f110c755</sys_scope>
-        <sys_update_name>sys_dictionary_x_trer2_test2132_test_table_null</sys_update_name>
-        <sys_updated_by>test123</sys_updated_by>
-        <sys_updated_on>2017-08-04 15:54:28</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_trer2_test2132_test_table_NULL</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-08-04 16:06:19</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
